@@ -1,2 +1,2 @@
 # webhookTest
-no-code12
+Project created to be used in tests to the github webhook api
